@@ -41,6 +41,7 @@ apt-get install -y sysvinit-backlight
 apt-get install -y hardinfo
 
 apt-get install -y synaptic
+apt-get install -y python-pip
 apt-get install -y gparted
 apt-get install -y unity-tweak-tool
 
@@ -105,6 +106,9 @@ apt-get install -y caffeine
 apt-get install -y font-manager
 apt-get install -y virtualbox 
 apt-get install -y xpad
+
+#Installing uising PIP
+pip install youtube-dl
 
 
 #Avro Installation (Check latest update from - http://linux.omicronlab.com/ubuntu_14.04.html)
