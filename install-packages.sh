@@ -107,7 +107,7 @@ apt-get install -y font-manager
 apt-get install -y virtualbox 
 apt-get install -y xpad
 
-#Installing uising PIP
+#Installing through pip
 pip install youtube-dl
 
 
